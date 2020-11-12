@@ -1,3 +1,4 @@
+
 # Repositorio Ejercicio P2 ISE 20/21
 El repositorio contiene un único archivo alumnos.csv con los datos de los alumnos (solo caracteres ascii7) del grupo de prácticas. El fichero, inicialmente, contiene los datos de estudiantes ficticios :
 
