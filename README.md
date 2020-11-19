@@ -19,5 +19,5 @@ Cuerpo: <br/>
 * Alumno: David Palomar<br/>
 * Cuenta: GitHub davidPalomar-ugr
 
-La fecha l&iacute;mite para la realización del ejercicio es 16 de Noviembre.
+La fecha l&iacute;mite para la realización del ejercicio es 23 de Noviembre.
 
