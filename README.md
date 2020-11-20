@@ -1,4 +1,4 @@
-
+q
 # Repositorio Ejercicio P2 ISE 20/21
 El repositorio contiene un único archivo alumnos.csv con los datos de los alumnos (solo caracteres ascii7) del grupo de prácticas. El fichero, inicialmente, contiene los datos de estudiantes ficticios :
 
@@ -19,5 +19,5 @@ Cuerpo: <br/>
 * Alumno: David Palomar<br/>
 * Cuenta: GitHub davidPalomar-ugr
 
-La fecha l&iacute;mite para la realización del ejercicio es 16 de Noviembre.
+La fecha l&iacute;mite para la realización del ejercicio es 23 de Noviembre.
 
